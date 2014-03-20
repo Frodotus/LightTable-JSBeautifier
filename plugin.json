@@ -1,0 +1,9 @@
+{
+    "name": "JS-Beautifier",
+    "author": "Toni Leino",
+    "version": "0.0.1",
+    "source": "https://github.com/Frodotus/LightTable-JSBeautifier",
+    "desc": "LightTable JS-Beautifier plugin",
+    "dependencies": {},
+    "behaviors": "jsbeautifier.behaviors"
+}
