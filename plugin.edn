@@ -1,0 +1,5 @@
+{:name "JS-Beautifier"
+ :author "Toni Leino"
+ :source "https://github.com/Frodotus/LightTable-JSBeautifier"
+ :desc "LightTable JS-Beautifier plugin"
+ :behaviors "jsbeautifier.behaviors"}

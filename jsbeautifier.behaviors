@@ -1,0 +1,2 @@
+{:+ {:app [(:lt.objs.plugins/load-js "js-beautifier_compiled.js" true)
+           (:lt.objs.plugins/load-js "js/beautify.js" true)]}}
